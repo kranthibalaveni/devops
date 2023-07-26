@@ -2,4 +2,9 @@ frist line
 second line
 third line
 fourth line
+<<<<<<< HEAD
+5th line
+=======
 fifth line
+
+>>>>>>> main
